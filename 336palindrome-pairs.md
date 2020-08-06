@@ -12,7 +12,7 @@
 + 输出: [[0,1],[1,0]] 
 + 解释: 可拼接成的回文串为 ["battab","tabbat"]
 
-[来源：力扣（LeetCode）](https:/-/leetcode-cn.com/problems/palindrome-pairs/)
+[来源：力扣（LeetCode）](https://leetcode-cn.com/problems/palindrome-pairs/)
 
 ```
 class Solution {
