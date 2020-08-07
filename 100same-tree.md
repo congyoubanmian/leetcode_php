@@ -54,7 +54,7 @@
  *     }
  * }
  */
- 
+
 class Solution {
 
     /**
@@ -67,6 +67,6 @@ class Solution {
         if (!$p || !$q)  return false;
         return $p->val==$q->val &&$this->isSameTree($p->left, $q->left) && $this->isSameTree($p->right, $q->right);
         }
-    }
+}
 
 ```
